@@ -7,5 +7,5 @@
 #print(greeting)
 
 # Print "Hally is Bae!".
-update = "Hally is Bae!"
-print (update)
+greeting = "Hally is Bae!"
+print (greeting)
